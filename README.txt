@@ -14,3 +14,4 @@ The enquiry form opens the visitor's default email app and pre-fills:
 admin@krishnacateringservices.com
 
 The Canteen in Action video section has been removed for now.
+Cloudflare deployment test - 8 November 2026
